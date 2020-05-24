@@ -1,5 +1,14 @@
+/Users/vittoriaborotto/Documents/Estudos Developer/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/PetService.java
+/Users/vittoriaborotto/Documents/Estudos Developer/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/VetService.java
+/Users/vittoriaborotto/Documents/Estudos Developer/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/OwnerServiceMap.java
+/Users/vittoriaborotto/Documents/Estudos Developer/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/OwnerServices.java
+/Users/vittoriaborotto/Documents/Estudos Developer/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/PetType.java
+/Users/vittoriaborotto/Documents/Estudos Developer/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/PetServiceMap.java
+/Users/vittoriaborotto/Documents/Estudos Developer/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Pet.java
+/Users/vittoriaborotto/Documents/Estudos Developer/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/CrudService.java
 /Users/vittoriaborotto/Documents/Estudos Developer/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Person.java
 /Users/vittoriaborotto/Documents/Estudos Developer/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Vet.java
 /Users/vittoriaborotto/Documents/Estudos Developer/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Owner.java
-/Users/vittoriaborotto/Documents/Estudos Developer/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/PetType.java
-/Users/vittoriaborotto/Documents/Estudos Developer/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Pet.java
+/Users/vittoriaborotto/Documents/Estudos Developer/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/AbstractMapService.java
+/Users/vittoriaborotto/Documents/Estudos Developer/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/VetServiceMap.java
+/Users/vittoriaborotto/Documents/Estudos Developer/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/BaseEntity.java
