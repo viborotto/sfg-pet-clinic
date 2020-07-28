@@ -1,6 +1,7 @@
 # sfg-pet-clinic
 Main Project in Course Spring Framework 5: Beginner to Guru
 
+Notes about course
 Consolide Concepts for consult:
 
 #### Exception Handling in Spring MVC
